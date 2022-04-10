@@ -1,0 +1,30 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.log1 {
+  border-radius: 100%;
+}
+
+.navbar {
+  background-color: #e6e6e6;
+}
+
+.quem-somos {
+  background-color: #6e6e6e;
+}
+
+.servicos {
+  background-color: #6e6e6e;
+}
+
+.margin {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.bg-footer {
+  background-color: black;
+  color: white;
+  font-size: smaller;
+}
